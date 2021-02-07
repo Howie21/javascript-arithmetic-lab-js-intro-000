@@ -35,4 +35,3 @@ function decrement(n) {
   var result6 = (n--)
   return (`${result6}`)
 }
-
