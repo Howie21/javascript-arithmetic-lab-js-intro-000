@@ -25,3 +25,14 @@ function divide(a, b) {
   var result4 = (a / b)
   return (`${result4}`)
 }
+
+function increment(n) {
+  var result5 = (n++)
+  return (`${result5}`)
+}
+
+function decrement(n) {
+  var result6 = (n--)
+  return (`${result6}`)
+}
+
