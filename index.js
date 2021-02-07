@@ -35,6 +35,7 @@ function decrement(n) {
   var result6 = (--n)
   return (`${result6}`)
 }
+
 var NaN = ("Not a Number")
 
 function makeInt(n) {
