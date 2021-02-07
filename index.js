@@ -2,7 +2,6 @@ function add() {}
 
 function subtract() {}
 
-function multiply() {} 
+function multiply() {}
 
 function divide() {}
-
