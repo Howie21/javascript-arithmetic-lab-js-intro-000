@@ -35,3 +35,14 @@ function decrement(n) {
   var result6 = (--n)
   return (`${result6}`)
 }
+var NaN = ("Not a Number")
+
+function makeInt(n) {
+  var result7 = parseInt(n, 10)
+    return (`${result7}`)
+}
+
+function preserveDecimal(n) {
+  var result8 = parseFloat(n)
+  return (`${result8}`)
+}
