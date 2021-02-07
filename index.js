@@ -27,11 +27,11 @@ function divide(a, b) {
 }
 
 function increment(n) {
-  var result5 = (n++)
+  var result5 = (++n)
   return (`${result5}`)
 }
 
 function decrement(n) {
-  var result6 = (n--)
+  var result6 = (--n)
   return (`${result6}`)
 }
